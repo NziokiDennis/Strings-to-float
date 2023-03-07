@@ -1,2 +1,2 @@
 # Strings-to-float
-Converting strings to floats
+parseFloat("10.01") // = 10.01
